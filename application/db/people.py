@@ -1,2 +1,2 @@
 def get_employees():
-    print(f"This is func get_employees from {__name__}")
+    print(f"Это функция get_employess из {__name__}")
